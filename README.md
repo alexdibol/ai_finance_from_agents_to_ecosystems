@@ -467,13 +467,13 @@ See the full [LICENSE](./LICENSE) file for the legally operative text.
 
 ## AI-Assisted Writing and Coding Disclosure
 
-Artificial-intelligence tools were used as **assistive instruments** in portions of the writing, editing, coding, code review, documentation, and development of this repository.
+Artificial-intelligence tools were used in **some portions of the writing and coding** of this repository, including selected drafting, editing, code generation, code review, documentation, and development tasks.
 
-Their use does not imply autonomous authorship or unsupervised publication. The conceptual framework, pedagogical design, selection and organization of the material, substantive judgments, final editorial decisions, and overall direction of the repository remain under the authorship and supervision of **Alejandro Reynoso**.
+All such AI use was conducted under the **direction, review, and supervision of Alejandro Reynoso**. AI-generated or AI-assisted material was not accepted automatically: it was selected, checked, revised, integrated, or rejected by the author as appropriate.
 
-All AI-assisted material included in the repository was subject to human review, selection, revision, and supervision. **Alejandro Reynoso assumes responsibility for the final content published in this repository, including the decision to incorporate, modify, or reject AI-generated or AI-assisted text and code.**
+**Alejandro Reynoso is the human author responsible for the conceptual framework, pedagogical architecture, substantive judgments, organization of the material, supervision of the work, validation of the final content, and the decision to publish it. Responsibility for the repository and its final contents remains with the author.**
 
-AI tools should therefore be understood here as part of the research and production workflow—not as independent authors, owners, or accountable parties.
+AI tools are therefore acknowledged as assistive instruments in the research and production workflow. They are not presented as independent authors, owners, supervisors, or accountable parties.
 
 ## Disclaimer
 
