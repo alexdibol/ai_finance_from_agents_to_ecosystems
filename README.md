@@ -7,6 +7,7 @@
 ![Agentic AI](https://img.shields.io/badge/Architecture-Agentic%20AI-4B5563)
 ![Finance](https://img.shields.io/badge/Domain-Finance-1F4E79)
 ![Pedagogy](https://img.shields.io/badge/Design-Pedagogical-2E7D32)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 **AI in Finance: From Agents to Ecosystems** is a deliberately cumulative tutorial on how to build agentic systems from the ground up.
 
@@ -453,3 +454,33 @@ That progression is the central idea of this repository.
 ## Important note
 
 This repository is an educational and research tutorial. The companies, financial variables, documents, benchmarks, recommendations, and events are synthetic or pedagogical constructs. Nothing in the repository should be interpreted as investment advice, a securities recommendation, an M&A fairness opinion, or a production trading system.
+
+---
+
+# Copyright, License, and Authorship
+
+**Copyright © 2026 Alejandro Reynoso. All rights reserved except as expressly granted under the MIT License.**
+
+This repository is released under the **MIT License**. You may use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software and associated materials, subject to the terms of the license and preservation of the required copyright and permission notice.
+
+See the full [LICENSE](./LICENSE) file for the legally operative text.
+
+## AI-Assisted Writing and Coding Disclosure
+
+Artificial-intelligence tools were used as **assistive instruments** in portions of the writing, editing, coding, code review, documentation, and development of this repository.
+
+Their use does not imply autonomous authorship or unsupervised publication. The conceptual framework, pedagogical design, selection and organization of the material, substantive judgments, final editorial decisions, and overall direction of the repository remain under the authorship and supervision of **Alejandro Reynoso**.
+
+All AI-assisted material included in the repository was subject to human review, selection, revision, and supervision. **Alejandro Reynoso assumes responsibility for the final content published in this repository, including the decision to incorporate, modify, or reject AI-generated or AI-assisted text and code.**
+
+AI tools should therefore be understood here as part of the research and production workflow—not as independent authors, owners, or accountable parties.
+
+## Disclaimer
+
+The repository is provided for **educational and research purposes** and is distributed under the MIT License on an **“AS IS”** basis, without warranties of any kind, express or implied.
+
+The material illustrates concepts in artificial intelligence, agentic systems, algorithmic trading, investment banking, mergers and acquisitions, and autonomous financial systems. It is not intended to constitute financial, investment, legal, accounting, tax, trading, or professional advice.
+
+Synthetic examples, simulated transactions, generated documents, model outputs, agent decisions, rankings, scores, and other experimental results should not be interpreted as recommendations concerning any real company, security, transaction, portfolio, or investment strategy.
+
+Users remain responsible for independently validating any code, model, workflow, output, or analytical method before using it in research, teaching, professional, regulated, or production environments.
